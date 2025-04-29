@@ -1,5 +1,7 @@
 #EXTINF:-1 group-title="VIỆT NAM" radio=true group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
 https://stream.vovmedia.vn/vov1/
+#EXTINF:-1 group-title="VIỆT NAM" radio=true group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1 (TTTH)
+https://sohoa.truyenthanhthongminh.vn/BinhPhuoc-VOV1
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
 https://stream.vovmedia.vn/vov2/
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
