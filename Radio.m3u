@@ -1,9 +1,9 @@
 #EXTINF:-1 group-title="VIỆT NAM" radio=true group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
-http://media.kythuatvov.vn:8001
+https://stream.vovmedia.vn/vov1/
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
-http://media.kythuatvov.vn:8003
+https://stream.vovmedia.vn/vov2/
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
-http://media.kythuatvov.vn:8005
+https://stream.vovmedia.vn/vov3/
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://i.imgur.com/64ZucRJ.png", VOV MINORITIES SERVICE NORTH
 https://stream.vovmedia.vn/vov4tb
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://i.imgur.com/64ZucRJ.png" , VOV MINORITIES SERVICE HIGHLANDS
